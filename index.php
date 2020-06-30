@@ -4,5 +4,6 @@
  </head>
  <body>
  <?php echo "<p>Olá Mundo - Renato</p>"; ?>
+ <?php echo "<p>teste</p>"; ?>
  </body>
 </html>
